@@ -1,0 +1,12 @@
+<my:person xmlns:my           = "http://ivoronline"
+           xmlns:xsi          = "http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation = "http://ivoronline Test.xsd">
+
+  <my:name> John </my:name>
+  <my:age>  20   </my:age>
+
+</my:person>
+
+
+
+
